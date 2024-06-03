@@ -3,5 +3,5 @@
 ```
 or
 ```
-# curl -sL https://raw.githubusercontent.com/Maks1mS/fix-docker/main/script.sh
+# curl -sL https://raw.githubusercontent.com/Maks1mS/fix-docker/main/script.sh | bash
 ```
